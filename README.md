@@ -80,3 +80,9 @@ Model performance plots (`accuracy and loss function visualizaton.png`) show:
 - Deploy the model using Streamlit or Flask
 - Convert notebook into a pipeline or modular Python script
 
+## 🧑‍💻 Author
+
+- GitHub: [@muhammadnouman911](https://github.com/muhammadnouman911)
+
+---
+
