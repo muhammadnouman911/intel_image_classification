@@ -63,3 +63,14 @@ pip install -r requirements.txt
 2. Place the dataset in the `Dataset/` folder
 3. Open and run `intel_image_classification.ipynb` in Jupyter Notebook or Google Colab
 
+## 📌 Results
+
+- Achieved high accuracy on both training and validation sets
+- Proper class-wise classification without overfitting
+
+## 📷 Visualization
+
+Model performance plots (`accuracy and loss function visualizaton.png`) show:
+- Model learning behavior over epochs
+- Comparison between training and validation accuracy/loss
+
