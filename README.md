@@ -29,3 +29,14 @@ Each category includes RGB images of 150x150 pixels.
 
 You can download the dataset from [Intel Image Classification Dataset on Kaggle](https://www.kaggle.com/puneet6060/intel-image-classification) *(if not included due to size)*.
 
+## 🚀 Model Architecture
+
+- CNN with multiple Conv2D, MaxPooling2D layers
+- Batch Normalization and Dropout for regularization
+- Dense layers for classification
+- Activation functions: ReLU and Softmax
+
+## 📈 Training Performance
+
+The training and validation accuracy/loss curves are available in the `accuracy and loss function visualizaton.png` image file. This helps visualize model convergence and detect overfitting.
+
