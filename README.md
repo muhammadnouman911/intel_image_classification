@@ -74,3 +74,9 @@ Model performance plots (`accuracy and loss function visualizaton.png`) show:
 - Model learning behavior over epochs
 - Comparison between training and validation accuracy/loss
 
+## ✨ Future Work
+
+- Experiment with Transfer Learning (e.g., VGG16, ResNet)
+- Deploy the model using Streamlit or Flask
+- Convert notebook into a pipeline or modular Python script
+
