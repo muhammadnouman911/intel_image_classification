@@ -40,3 +40,26 @@ You can download the dataset from [Intel Image Classification Dataset on Kaggle]
 
 The training and validation accuracy/loss curves are available in the `accuracy and loss function visualizaton.png` image file. This helps visualize model convergence and detect overfitting.
 
+## 🛠️ Dependencies
+
+- Python 3.x
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
+- Seaborn
+- scikit-learn
+
+You can install the dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+*(You can generate a `requirements.txt` with `pip freeze > requirements.txt`)*
+
+## ✅ How to Run
+
+1. Clone the repository
+2. Place the dataset in the `Dataset/` folder
+3. Open and run `intel_image_classification.ipynb` in Jupyter Notebook or Google Colab
+
