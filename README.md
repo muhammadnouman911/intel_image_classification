@@ -14,3 +14,18 @@ intel_image_classification/
 ├── README.md                                # This file
 ```
 
+## 📊 Dataset
+
+The dataset used in this project is the Intel Image Classification dataset, which contains natural scene images categorized into:
+
+- Buildings
+- Forest
+- Glacier
+- Mountain
+- Sea
+- Street
+
+Each category includes RGB images of 150x150 pixels.
+
+You can download the dataset from [Intel Image Classification Dataset on Kaggle](https://www.kaggle.com/puneet6060/intel-image-classification) *(if not included due to size)*.
+
